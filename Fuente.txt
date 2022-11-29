@@ -1,0 +1,7 @@
+HTML:
+
+<link href="https://fonts.googleapis.com/css?family=Ruslan+Display&display=swap" rel="stylesheet">
+
+CSS:
+
+font-family: "Ruslan Display", cursive;
